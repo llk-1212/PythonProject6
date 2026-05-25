@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="0@localhost">
+  <database-model serializer="dbm" dbms="REDIS" family-id="REDIS" format-version="4.55">
+    <root id="1">
+      <ServerVersion>8.2.5</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="0">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="1"/>
+    <schema id="4" parent="1" name="10"/>
+    <schema id="5" parent="1" name="11"/>
+    <schema id="6" parent="1" name="12"/>
+    <schema id="7" parent="1" name="13"/>
+    <schema id="8" parent="1" name="14"/>
+    <schema id="9" parent="1" name="15"/>
+    <schema id="10" parent="1" name="2"/>
+    <schema id="11" parent="1" name="3"/>
+    <schema id="12" parent="1" name="4"/>
+    <schema id="13" parent="1" name="5"/>
+    <schema id="14" parent="1" name="6"/>
+    <schema id="15" parent="1" name="7"/>
+    <schema id="16" parent="1" name="8"/>
+    <schema id="17" parent="1" name="9"/>
+    <redis-key id="18" parent="2" name="[M]iOS5编程揭秘——iPhone与iPad应用开发入门-9787302287971">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="19" parent="2" name="[M]iPhone应用程序开发名家解析-9787121107962">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="20" parent="2" name="[M]iPhone手机摄影指南 张鑫,赵华鹏 著 -9787115574046">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="21" parent="2" name="[M]iPhone手机游戏开发从入门到精通-9787113151027">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="22" parent="2" name="[M]学习iPhone编程(影印版)-9787564124113">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="23" parent="2" name="[M]精彩iPhone炫酷开发:七位一线高手的编程和-9787115236517">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="24" parent="2" name="[送手机壳]轻万适用苹果8plus钢化膜iphone7p全屏apple手机贴膜白色全屏抗蓝光钢化膜">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="25" parent="2" name="[送手机壳]轻万适用苹果8钢化膜iphone7全屏丝印白色apple玻璃贴膜全屏抗蓝光高清膜">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="26" parent="2" name="[醉染正版]正版 iPhone简史 布莱恩·麦切特 书店 生活百科书籍">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="27" parent="2" name="book_spider:dupefilter">
+      <Type>set</Type>
+    </redis-key>
+    <redis-key id="28" parent="2" name="book_spider:items">
+      <Type>list</Type>
+    </redis-key>
+    <redis-key id="29" parent="2" name="book_spider:start_urls">
+      <Type>list</Type>
+    </redis-key>
+    <redis-key id="30" parent="2" name="douban:movies">
+      <Type>hash-table</Type>
+    </redis-key>
+    <redis-key id="31" parent="2" name="github_spider:dupefilter">
+      <Type>set</Type>
+    </redis-key>
+    <redis-key id="32" parent="2" name="github_spider:items">
+      <Type>list</Type>
+    </redis-key>
+    <redis-key id="33" parent="2" name="github_spider:start_urls">
+      <Type>list</Type>
+    </redis-key>
+    <redis-key id="34" parent="2" name="news_spider:dupefilter">
+      <Type>set</Type>
+    </redis-key>
+    <redis-key id="35" parent="2" name="news_spider:start_urls">
+      <Type>list</Type>
+    </redis-key>
+    <redis-key id="36" parent="2" name="quotes:author_count">
+      <Type>hash-table</Type>
+    </redis-key>
+    <redis-key id="37" parent="2" name="quotes:authors">
+      <Type>set</Type>
+    </redis-key>
+    <redis-key id="38" parent="2" name="quotes:list">
+      <Type>list</Type>
+    </redis-key>
+    <redis-key id="39" parent="2" name="quotes:tags">
+      <Type>set</Type>
+    </redis-key>
+    <redis-key id="40" parent="2" name="test">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="41" parent="2" name="公牛(BULL) 氮化镓充电器 67W充电头 多口usb笔记本type-c充电头ipad充电器快充iphone15充电头">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="42" parent="2" name="正版 Iphone与ipad开发实战:ios经典应用剖析 关东升,赵志荣,贾">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="43" parent="2" name="正版 iPhone手机摄影指南 张鑫(Derrick Zhang)赵华鹏(Jamie-H">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="44" parent="2" name="正版 iPhone简史 (美)布莱恩·麦切特(Brian Merchant)著 天地出版">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="45" parent="2" name="正版 口袋里的影像日记:iPhone随手留下我的生活旅游回忆 简文颀">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="46" parent="2" name="适用苹果安卓Type-c手机读卡器 手机内存TF卡单反相机SD卡 华为OPPO小米iPhone/iPad平板手机电脑通">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="47" parent="2" name="途沁Type-C数据线适用iPhone15/16/华为小米平板快充编织线华为小米type-c66W充电线">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="48" parent="2" name="醉染图书iPhone/iPad制作9787111496779">
+      <Type>string</Type>
+    </redis-key>
+    <redis-key id="49" parent="2" name="醉染图书iPhone手机维修电路图集9787519810146">
+      <Type>string</Type>
+    </redis-key>
+  </database-model>
+</dataSource>
